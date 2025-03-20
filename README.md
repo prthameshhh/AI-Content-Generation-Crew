@@ -42,7 +42,7 @@ A comprehensive AI-powered content generation system featuring specialized exper
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ai-content-generation-assistant.git
-   cd ai-content-generation-assistant
+   cd ai-content-generation-crew
    ```
 
 2. Install required packages:
