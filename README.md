@@ -1,4 +1,4 @@
-# AI Content Generation Assistant
+# AI Content Generation Crew
 
 A comprehensive AI-powered content generation system featuring specialized expert roles, voice input, and a collaborative workflow for creating high-quality content.
 
